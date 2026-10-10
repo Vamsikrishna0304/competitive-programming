@@ -1,0 +1,3 @@
+SELECT COUNT(*) AS user_count
+FROM Users
+WHERE age BETWEEN 18 AND 24;
